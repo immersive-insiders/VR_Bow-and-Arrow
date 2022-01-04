@@ -1,6 +1,6 @@
 # VR_Bow-and-Arrow
 
-This is a base project to kick start the developmet of Bow and Arrow experience in VR.
+This is a base project to kick start the develpoment of Bow and Arrow experience in VR.
 
 Check out the blog [here](https://blog.immersive-insiders.com/bow-and-arrow-in-vr-part1/)
 
