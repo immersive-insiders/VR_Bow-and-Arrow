@@ -1,6 +1,6 @@
 # VR_Bow-and-Arrow
 
-This repository has the version of Bow ang Arrow where, you will be able to pull the string and return a value based on the pull position
+This repository has the version of Bow and Arrow where, you will be able to pull the string and return a value based on the pull position
 
 Check out the Blog [here](https://blog.immersive-insiders.com/bow-and-arrow-in-vr-part1/) 
 
