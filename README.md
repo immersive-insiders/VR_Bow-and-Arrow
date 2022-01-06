@@ -1,7 +1,7 @@
 # VR_Bow-and-Arrow
 
-This repository has the version of Bow and Arrow where, you will be able to hold the bow and pull the string.
+This repository has the completed version of Bow and Arrow experience. You will be able to hold the bow, attach the arrow and fire it.
 
-Check out the Blog [here](https://blog.immersive-insiders.com/bow-and-arrow-in-vr-part2/)
+Check out the Blog [here]()
 
-![BowInteraction](https://user-images.githubusercontent.com/94760299/148020775-f3b993c9-155d-4f75-b428-5d3c35608eb7.gif)
+![BowAndArrow](https://user-images.githubusercontent.com/94760299/148019648-f0e6f239-7acb-4a94-a1cc-d3a958575811.gif)
